@@ -40,7 +40,7 @@ Guess-the-number-/
 
 ```bash
 git clone https://github.com/Harshpoddar1/Guess-the-number-.git
-cd Guess-the-number-
+cd Guess-the-number-game
 ```
 
 Open `index.html` in your browser. No installation needed.
