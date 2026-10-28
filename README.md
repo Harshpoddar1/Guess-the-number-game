@@ -27,7 +27,7 @@ Guess-the-number-/
 └── README.md
 🚀 Run Locally
 bash
-git clone https://github.com/Harshpoddar1/Guess-the-number-.git
+git clone https://github.com/Harshpoddar1/Guess-the-number-game.git
 cd Guess-the-number-
 
 Open index.html in your browser. No installation needed.
